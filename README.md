@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siman
 - 👀 I’m interested in fullstack development and rock climbing!
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any rock climbing related apps/projects
 - 📫 How to reach me @siman4457 on twitter
 
 <!---
