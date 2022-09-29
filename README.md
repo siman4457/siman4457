@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Siman
-- 👀 I’m interested in fullstack development and rock climbing
-- 💞️ I’m looking to collaborate on any rock climbing related apps/projects
+- 👀 I’m interested in fullstack development 
 
 <!---
 siman4457/siman4457 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
