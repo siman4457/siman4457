@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Siman
-- 👀 I’m interested in fullstack development and UX.
 - <a href="https://dribbble.com/walooloo_17">Dribbble</a>
 - <a href="https://medium.com/@siman4457">Medium</a>
 
